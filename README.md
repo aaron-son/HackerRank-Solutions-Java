@@ -1,5 +1,7 @@
 # HackerRank_Solutions
 
-## A collection of HackerRank solutions
+## General
+
+A collection of HackerRank solutions in Java
 
 
